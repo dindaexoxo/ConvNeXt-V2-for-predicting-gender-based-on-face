@@ -56,4 +56,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 Feel free to reach out for any questions or suggestions regarding this project!
 
+## Notes
+Please download the .ipynb file if you want to see the full output, because when I tried to open it on Github, it couldn't show.
 
